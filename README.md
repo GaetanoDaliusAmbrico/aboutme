@@ -6,5 +6,8 @@ I'm still building my profile 😡
 - Use Linux to feel I have twice my IQ
 - (idk)
 
+# What I love
+- Nvim (**N**otorious **V**engefulness and **I**nimical to **M**ouses)
+
 # What I'm focusing on
 - Using LLMs to write twice the slop at half the speed
