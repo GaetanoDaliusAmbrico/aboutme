@@ -4,6 +4,7 @@ I'm still building my profile 😡
 # What I'm good at
 - Removing the French language from Arch (I use Arch btw)
 - Use Linux to feel I have twice my IQ
+- Writing slop
 - (idk)
 
 # What I love
